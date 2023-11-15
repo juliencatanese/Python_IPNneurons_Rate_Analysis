@@ -18,9 +18,6 @@ Analysis is currently beeing done.
 
 Soon you will be able to browse and run the notebooks. 
 
-You will need to install the dependencies (in a dedicated environment) :
+In the meantime, you can take a look at some sample figures in this repository. 
+They represent examples of the results of my previous analysis. 
 
-
-```
-pip install -r requirements.txt
-```
