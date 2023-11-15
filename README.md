@@ -8,10 +8,10 @@ The Neuronal activity in quantify using Action potential rate ("AP rate" or "spi
 The data have been pre-processed and AP have been sorted using PLEXON SORTER (software from PLEXON company), by me Julien Catanese, and store in a nex5 format. 
 The nex5 files are transform into a python readable format. 
 
-This project was developed by the following team :
+This project was developed by the following team of datasceintist:
 
-- John Doe ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
-- Martin Dupont ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
+- Julien Catanese (me)  ([LinkedIn] https://www.linkedin.com/in/julien-catanese-57137232/)
+- Adam Catto            ([LinkedIn] https://www.linkedin.com/in/adamcatto/)
 
 
 Analysis is currently beeing done. 
@@ -19,6 +19,7 @@ Analysis is currently beeing done.
 Soon you will be able to browse and run the notebooks. 
 
 You will need to install the dependencies (in a dedicated environment) :
+
 
 ```
 pip install -r requirements.txt
